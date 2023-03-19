@@ -1,0 +1,6 @@
+elasticsearch>7,<8
+elasticsearch-dsl
+flask
+sqlalchemy-cockroachdb
+psycopg2
+sqlalchemy
